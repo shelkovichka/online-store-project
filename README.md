@@ -1,3 +1,3 @@
 # online-store-project
 
-<img src="https://i.yapx.ru/TTTBk.png">
+<img src="https://postimg.cc/kRC8zjCV">
