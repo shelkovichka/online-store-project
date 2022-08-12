@@ -1,3 +1,3 @@
 # online-store-project
 
-<img src="projects/HomePage.png">
+<img src="/projects/HomePage.png">
