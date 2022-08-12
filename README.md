@@ -1,3 +1,3 @@
 # online-store-project
 
-<img src="https://i.yapx.ru/TTTBk.png">
+<a href="https://yapx.ru/v/TTTBk" title="HomePage"><img src="https://i.yapx.ru/TTTBk.png"></a>
