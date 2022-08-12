@@ -1,3 +1,3 @@
 # online-store-project
 
-<img src="https://postimg.cc/kRC8zjCV">
+<img src="https://i.postimg.cc/zvbjLMPk/HomePage.png">
