@@ -19,6 +19,7 @@
 
 <h2>Used technologies:</h2>
 <li>Vue 3</li>
+<li>Vue-cli</li>
 <li>Vuex</li>
 <li>Vue Router</li>
 <li>JavaScript</li>
