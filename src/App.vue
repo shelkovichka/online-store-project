@@ -51,7 +51,7 @@ export default {
     validItems(){ 
       return this.$store.state.products.filter(
         item => item.title.
-          toLowerCase().indexOf(this.userInput.toLowerCase()) > -1
+          toLowerCase().indexOf(this.userInput.toLowerCase().trim()) > -1
       );
     }
   }
