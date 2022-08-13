@@ -2,7 +2,7 @@
 
 <img src="https://i.postimg.cc/xCKBJBw2/HomePage.png">
 <br></br>
-<p>This local project is based on existing website.</p>
+<p>This local project is done for an existing brand. I got permission and access to materials from the founder of the brand</p>
 <p>An application consists of several components that may be reached by a fixed menu or by router-links in single components.</p>
 <br></br>
 <img src="https://i.postimg.cc/QVLVnJKJ/InfoPage.png">
