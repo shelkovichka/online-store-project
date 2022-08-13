@@ -3,7 +3,6 @@
 <img src="https://i.postimg.cc/xCKBJBw2/HomePage.png">
 <br></br>
 <p>This local project is based on existing website.</p>
-<br></br>
 <p>An application consists of several components that may be reached by a fixed menu or by router-links in single components. 
 </p>
 <br></br>
@@ -19,11 +18,10 @@
 <br></br>
 <The application contains animation and an adaptive layout>
 <br></br>
-<ul>Used technologies:
+<h2>Used technologies:</h2>
 <li>Vue 3</li>
 <li>Vuex</li>
 <li>Vue Router</li>
 <li>JavaScript</li>
 <li>CSS3</li>
 <li>Html5</li>
-</ul>
