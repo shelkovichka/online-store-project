@@ -15,7 +15,7 @@
 <br></br>
 <img src="https://i.postimg.cc/MKkyL7SL/Basket-Page.png">
 <br></br>
-<p>The application also contains animation and an adaptive layout.</p>
+<p>The application also contains animation and responsive web design.</p>
 
 <h2>Used technologies:</h2>
 <li>Vue 3</li>
